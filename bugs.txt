@@ -1,0 +1,7 @@
+Bugs:
+
+- isEmpty always returns true
+- addBack adds to the front of the list
+- search always returns false
+- removeFront always returns false, never removes node
+- removeBack always returns false, never removes node
